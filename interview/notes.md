@@ -1,44 +1,45 @@
 # Interview Record — Phỏng vấn kiểm chứng Pain Point (Case B — AI Notes)
 
 * **Mã người tham gia:** `NV-01`
-* **Đúng tiêu chí tuyển:** Có (Đã học 3 bài học trực tuyến trên VLearn & Coursera trong 5 ngày qua, có ghi chép và highlight)
+* **Đúng tiêu chí tuyển:** Có (Vừa hoàn thành bài học trực tuyến hôm nay/hôm qua, có nhu cầu ghi chép và lưu trữ kiến thức)
 * **Thời gian thực hiện:** 17/08/2026
+* **Nguồn file ghi âm gốc:** `08-17-2026 12.23_1.m4a`
+* **Link bản ghi âm Google Drive:** [File ghi âm phỏng vấn NV-01](https://drive.google.com/file/d/1QZpzXlbHhAAnzkhtb1xay7kIbHgBfguu/view?usp=sharing)
 * **Người thực hiện phỏng vấn (Interviewer):** Trần Thị Vân Anh (MHV: 2A202601411)
-* **Đồng ý ghi âm (Consent):** Đã đồng ý trước khi bắt đầu
+* **Đồng ý ghi âm (Consent):** Đã xin phép và được người tham gia đồng ý ở đầu cuộc phỏng vấn (*"Làm cái bạn mình xin phép được ghi lại câu trả lời của bạn..."*)
 
 ---
 
 ## 1. Bối cảnh & Tình huống gần đây nhất (Story Opener)
-* **Tình huống:** Tối thứ Năm vừa rồi (3 ngày trước), user tham gia bài học trực tuyến về "Prompt Engineering cho Quy trình Thiết kế UX" trên VLearn. Bài học kéo dài khoảng 45 phút với nhiều ví dụ code và công thức prompt.
-* **Mục tiêu của user:** Lưu lại các mẫu prompt hay và quy tắc tinh chỉnh prompt để áp dụng vào dự án thiết kế UI/UX ở công ty vào ngày hôm sau.
+* **Tình huống:** Người học vừa hoàn thành một bài học trực tuyến ngay trong ngày hôm nay/hôm qua có nhiều kiến thức quan trọng cần lưu lại.
+* **Mục tiêu của người học:** Ghi chép lại các kiến thức cốt lõi và phần giải thích của giảng viên để chuẩn bị ôn tập cho các kỳ thi/dự án sắp tới.
+* **Sự cố hệ thống:** Nền tảng học trực tuyến có tính năng ghi chú nhưng đang bị lỗi cấu hình (config error / không lưu lại được), buộc người học phải tự tìm cách xử lý thủ công.
 
-## 2. Hành vi thực tế user đã thực hiện (Real Behaviors)
-* Trong lúc học, user mở song song màn hình VLearn và app **Notion** ở nửa màn hình bên phải.
-* Mỗi khi giảng viên chiếu một slide có mẫu prompt quan trọng, user chụp ảnh màn hình (`Cmd + Shift + 4`) rồi dán trực tiếp vào Notion.
-* Có 3 đoạn khái niệm khó hiểu về "Few-shot prompting", user dùng tính năng highlight của trình duyệt hoặc gõ dở dang vài dòng text vào Notion: *"Cần xem lại chỗ này, hình như thiếu phần ví dụ negative prompt"*.
-* Tổng cộng trong buổi học, user chụp 12 tấm ảnh màn hình và gõ khoảng 8 đoạn note ngắn không theo thứ tự.
+## 2. Hành vi thực tế người học đã thực hiện (Real Behaviors)
+* **Chia đôi màn hình (Split-screen):** Mở song song màn hình bài học ở một bên và phần mềm ghi chú bên ngoài ở nửa màn hình còn lại.
+* **Copy-paste thủ công:** Người học phải thao tác copy từng đoạn văn bản từ slide bài học dán sang ứng dụng ghi chú, sau đó gõ bổ sung thêm các ý giải thích riêng.
+* **Sử dụng AI bên ngoài để tóm tắt khi ôn tập:** Đến lúc cần tìm lại thông tin để ôn bài, người học không ngồi đọc lại toàn bộ đống ghi chú lộn xộn đã gõ, mà paste đống note đó vào AI (ChatGPT/Claude) nhờ AI tóm tắt lại thành bản ngắn gọn để học cho nhanh.
 
 ## 3. Khó khăn & Workaround đã sử dụng (Pain & Workarounds)
 * **Workaround:**
-  * Dùng Notion làm "bãi đáp tạm thời" cho screenshot và text note copy-paste.
-  * Mở thêm Google Docs để cố gắng tự gõ lại thành danh sách dạng gạch đầu dòng sau khi bài học kết thúc.
+  1. Chia đôi màn hình để thao tác song song giữa video bài học và cửa sổ note.
+  2. Copy từng đoạn text từ slide dán sang ứng dụng ngoài và gõ lại những thông tin trùng lặp đã có sẵn trên slide.
+  3. Dùng công cụ AI độc lập bên ngoài để tóm tắt đống note ngổn ngang trước mỗi kỳ ôn tập.
 * **Khó khăn thực tế (Friction & Pain):**
-  * Cuối buổi học (khoảng 22h30), user rất mệt nhưng biết nếu không xếp lại note thì ngày mai sẽ quên. User phải mất thêm 35 phút ngồi lọc lại 12 tấm ảnh màn hình, gõ lại chữ từ hình ảnh vào file tổng hợp.
-  * Các ghi chú dở dang (*"Cần xem lại chỗ này"*) lúc học xong nhìn lại không nhớ rõ là đang nói về slide nào hay phút thứ bao nhiêu trong video.
-  * Việc vừa xem video vừa gõ note sang cửa sổ Notion làm đứt gãy luồng suy nghĩ học tập (context switching liên tục).
+  * **Tốn sức nhất (Highest friction):** Việc phải liên tục copy từng nội dung từ bài học sang cửa sổ khác, đồng thời phải gõ lại những thông tin vốn đã trình bày trên slide làm người học cảm thấy rất mệt mỏi và tốn thời gian.
+  * **Tính năng note sẵn bị lỗi:** Người học rất muốn ghi chú trực tiếp ngay bên cạnh slide trên giao diện học nhưng hệ thống bị lỗi config không ghi lại được.
 
 ## 4. Hậu quả & Chi phí kéo theo (Consequences & Costs)
-* **Chi phí thời gian:** Tốn thêm 35–40 phút sau mỗi buổi học 45 phút chỉ để hệ thống lại ghi chú.
-* **Hậu quả thực tế:**
-  * Chiều thứ Sáu khi làm dự án thực tế, user mở file Notion ra tìm mẫu prompt thì bị bối rối vì ghi chú bị lộn xộn, hình ảnh chụp bị đứt đoạn không kèm context.
-  * User phải mở lại bài học trên VLearn và tua lại video để tìm đúng mốc thời gian (mất thêm 15 phút).
-  * User chia sẻ: *"Khoảng 50% số bài học mình đã note trên Notion trước đây bây giờ thành 'rác', vì lúc mở lại không hiểu context lúc đó mình ghi cái gì."*
+* **Hậu quả nếu không note:** Người học khẳng định nếu không ghi chép lại thì sẽ **bị miss (bỏ lỡ)** hoàn toàn các phần giải thích sâu và ví dụ thực tế của giảng viên ngoài slide.
+* **Chi phí quá tải thông tin:** Việc tự gõ note thủ công tạo ra một "đống nốt" ngổn ngang. Khi cần ôn tập, người học bị quá tải và không thể tự đọc hết mà phải phụ thuộc vào AI bên ngoài để tóm tắt lại.
+* **Đứt gãy luồng học:** Thao tác chuyển đổi qua lại giữa 2 nửa màn hình (context switching) gây phân tâm trong suốt buổi học.
 
-## 5. Điểm bất ngờ, Trái giả thuyết & Exact Quotes
-* **Exact Quote 1 (Về việc quá tải khi tổng hợp):**
-  > *"Học xong 45 phút đã mệt rồi, nhìn lại cái file Notion ngổn ngang ảnh chụp màn hình với mấy dòng chữ viết tắt là mình chỉ muốn đóng máy đi ngủ. Nhưng không xếp lại thì hôm sau coi như công học vô ích."*
-* **Exact Quote 2 (Về rào cản xem lại note):**
-  > *"Mình không thiếu chỗ viết note, Notion của mình có hàng chục trang. Cái mình thiếu là công sức gom mấy mảnh vụn lúc đang học thành một bài tóm tắt tử tế để tuần sau mở ra dùng được ngay."*
-* **Điểm trái giả thuyết / Phát hiện mới:**
-  * Ban đầu nhóm nghĩ learner ngại note trong lúc học. Nhưng thực tế user **rất tích cực note và chụp màn hình**.
-  * Pain thực sự không nằm ở việc *tạo ra note*, mà nằm ở **"chi phí chuyển đổi" (consolidation cost)** từ những vết note rải rác dở dang thành một tài liệu ôn tập có ngữ cảnh đầy đủ.
+## 5. Trích dẫn trực tiếp (Exact Quotes) & Phát hiện quan trọng
+* **Quote 1 (Về rào cản tốn sức nhất khi ghi chép thủ công):**
+  > *"Tốn sức nhất là em phải copy từng cái này sang cái kia xong rồi ghi chép lại những cái đã có ở trong cái slide nữa."*
+* **Quote 2 (Về cách ôn tập & thói quen nhờ AI tóm tắt note):**
+  > *"Thường là em sẽ nhờ AI để tổng tắt (tóm tắt) lại luôn, chứ không kiểu ngồi đọc hết cái đống nốt mình viết."*
+* **Quote 3 (Về hậu quả nếu không có ghi chép):**
+  > *"Nếu mà em không dùng nốt ấy em nghĩ là nó sẽ bị mít (bỏ lỡ - miss) các kiểu giải thích của giảng viên."*
+* **Phát hiện quan trọng kiểm chứng giả thuyết (Key Insight):**
+  * Hành vi thực tế của người học đã tự phát sinh nhu cầu **dùng AI tóm tắt lại note** khi ôn tập bài! Đây là bằng chứng vô cùng đắt giá (Strong Evidence) cho thấy bài toán tự động tổng hợp & cấu trúc hóa ghi chú sau buổi học là một pain point có thật và user đã chủ động tự tìm workaround (dùng AI bên ngoài).
