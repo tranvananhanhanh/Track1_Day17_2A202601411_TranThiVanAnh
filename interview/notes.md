@@ -1,45 +1,79 @@
-# Interview Record — Phỏng vấn kiểm chứng Pain Point (Case B — AI Notes)
+# Interview Records — Phỏng vấn kiểm chứng Pain Point (Case B — AI Notes)
 
-* **Mã người tham gia:** `NV-01`
-* **Đúng tiêu chí tuyển:** Có (Vừa hoàn thành bài học trực tuyến hôm nay/hôm qua, có nhu cầu ghi chép và lưu trữ kiến thức)
-* **Thời gian thực hiện:** 17/08/2026
-* **Nguồn file ghi âm gốc:** `08-17-2026 12.23_1.m4a`
-* **Link bản ghi âm Google Drive:** [File ghi âm phỏng vấn NV-01](https://drive.google.com/file/d/1QZpzXlbHhAAnzkhtb1xay7kIbHgBfguu/view?usp=sharing)
-* **Người thực hiện phỏng vấn (Interviewer):** Trần Thị Vân Anh (MHV: 2A202601411)
-* **Đồng ý ghi âm (Consent):** Đã xin phép và được người tham gia đồng ý ở đầu cuộc phỏng vấn (*"Làm cái bạn mình xin phép được ghi lại câu trả lời của bạn..."*)
+Tài liệu này tổng hợp ghi chép phỏng vấn kiểm chứng của 2 lượt phỏng vấn thực tế từ 2 thành viên trong nhóm.
 
 ---
 
-## 1. Bối cảnh & Tình huống gần đây nhất (Story Opener)
-* **Tình huống:** Người học vừa hoàn thành một bài học trực tuyến ngay trong ngày hôm nay/hôm qua có nhiều kiến thức quan trọng cần lưu lại.
-* **Mục tiêu của người học:** Ghi chép lại các kiến thức cốt lõi và phần giải thích của giảng viên để chuẩn bị ôn tập cho các kỳ thi/dự án sắp tới.
-* **Sự cố hệ thống:** Nền tảng học trực tuyến có tính năng ghi chú nhưng đang bị lỗi cấu hình (config error / không lưu lại được), buộc người học phải tự tìm cách xử lý thủ công.
+# 📌 LƯỢT 1: Interview Record NV-01
+* **Mã người tham gia:** `NV-01`
+* **Đúng tiêu chí tuyển:** Có (Vừa hoàn thành bài học trực tuyến hôm nay/hôm qua, có nhu cầu ghi chép và lưu trữ kiến thức)
+* **Thời gian thực hiện:** 17/08/2026
+* **Người thực hiện phỏng vấn (Interviewer):** Trần Thị Vân Anh (MHV: `2A202601411`)
+* **Nguồn file ghi âm gốc:** `08-17-2026 12.23_1.m4a`
+* **Link bản ghi âm Google Drive:** [File ghi âm NV-01](https://drive.google.com/file/d/1QZpzXlbHhAAnzkhtb1xay7kIbHgBfguu/view?usp=sharing)
+* **Đồng ý ghi âm (Consent):** Đã xin phép và được sự đồng ý ghi âm ở đầu cuộc phỏng vấn.
 
-## 2. Hành vi thực tế người học đã thực hiện (Real Behaviors)
-* **Chia đôi màn hình (Split-screen):** Mở song song màn hình bài học ở một bên và phần mềm ghi chú bên ngoài ở nửa màn hình còn lại.
-* **Copy-paste thủ công:** Người học phải thao tác copy từng đoạn văn bản từ slide bài học dán sang ứng dụng ghi chú, sau đó gõ bổ sung thêm các ý giải thích riêng.
-* **Sử dụng AI bên ngoài để tóm tắt khi ôn tập:** Đến lúc cần tìm lại thông tin để ôn bài, người học không ngồi đọc lại toàn bộ đống ghi chú lộn xộn đã gõ, mà paste đống note đó vào AI (ChatGPT/Claude) nhờ AI tóm tắt lại thành bản ngắn gọn để học cho nhanh.
+### 1. Bối cảnh & Tình huống
+* Người học vừa hoàn thành một bài học trực tuyến ngày hôm nay/hôm qua có nhiều kiến thức quan trọng cần lưu lại.
+* Nền tảng học có tính năng ghi chú nhưng đang bị lỗi cấu hình (config error / không ghi lại được), buộc người học phải tự tìm cách xử lý thủ công.
 
-## 3. Khó khăn & Workaround đã sử dụng (Pain & Workarounds)
-* **Workaround:**
-  1. Chia đôi màn hình để thao tác song song giữa video bài học và cửa sổ note.
-  2. Copy từng đoạn text từ slide dán sang ứng dụng ngoài và gõ lại những thông tin trùng lặp đã có sẵn trên slide.
-  3. Dùng công cụ AI độc lập bên ngoài để tóm tắt đống note ngổn ngang trước mỗi kỳ ôn tập.
-* **Khó khăn thực tế (Friction & Pain):**
-  * **Tốn sức nhất (Highest friction):** Việc phải liên tục copy từng nội dung từ bài học sang cửa sổ khác, đồng thời phải gõ lại những thông tin vốn đã trình bày trên slide làm người học cảm thấy rất mệt mỏi và tốn thời gian.
-  * **Tính năng note sẵn bị lỗi:** Người học rất muốn ghi chú trực tiếp ngay bên cạnh slide trên giao diện học nhưng hệ thống bị lỗi config không ghi lại được.
+### 2. Hành vi thực tế
+* **Chia đôi màn hình (Split-screen):** Mở song song màn hình bài học và phần mềm ghi chú bên ngoài.
+* **Copy-paste thủ công:** Copy từng đoạn văn bản từ slide bài học dán sang ứng dụng ghi chú, sau đó gõ bổ sung thêm lời giảng.
+* **Tóm tắt bằng AI bên ngoài:** Khi ôn tập, dán đống note lộn xộn vào AI bên ngoài nhờ AI tóm tắt lại để đọc cho nhanh.
 
-## 4. Hậu quả & Chi phí kéo theo (Consequences & Costs)
-* **Hậu quả nếu không note:** Người học khẳng định nếu không ghi chép lại thì sẽ **bị miss (bỏ lỡ)** hoàn toàn các phần giải thích sâu và ví dụ thực tế của giảng viên ngoài slide.
-* **Chi phí quá tải thông tin:** Việc tự gõ note thủ công tạo ra một "đống nốt" ngổn ngang. Khi cần ôn tập, người học bị quá tải và không thể tự đọc hết mà phải phụ thuộc vào AI bên ngoài để tóm tắt lại.
-* **Đứt gãy luồng học:** Thao tác chuyển đổi qua lại giữa 2 nửa màn hình (context switching) gây phân tâm trong suốt buổi học.
+### 3. Khó khăn & Workaround
+* **Tốn sức nhất:** Việc phải liên tục copy từng nội dung từ bài học sang cửa sổ khác, đồng thời phải gõ lại những thông tin đã có trên slide.
+* **Workaround:** Chia đôi màn hình + Copy-paste thủ công + Nhờ AI bên ngoài tóm tắt đống note trước khi ôn tập.
 
-## 5. Trích dẫn trực tiếp (Exact Quotes) & Phát hiện quan trọng
-* **Quote 1 (Về rào cản tốn sức nhất khi ghi chép thủ công):**
-  > *"Tốn sức nhất là em phải copy từng cái này sang cái kia xong rồi ghi chép lại những cái đã có ở trong cái slide nữa."*
-* **Quote 2 (Về cách ôn tập & thói quen nhờ AI tóm tắt note):**
-  > *"Thường là em sẽ nhờ AI để tổng tắt (tóm tắt) lại luôn, chứ không kiểu ngồi đọc hết cái đống nốt mình viết."*
-* **Quote 3 (Về hậu quả nếu không có ghi chép):**
-  > *"Nếu mà em không dùng nốt ấy em nghĩ là nó sẽ bị mít (bỏ lỡ - miss) các kiểu giải thích của giảng viên."*
-* **Phát hiện quan trọng kiểm chứng giả thuyết (Key Insight):**
-  * Hành vi thực tế của người học đã tự phát sinh nhu cầu **dùng AI tóm tắt lại note** khi ôn tập bài! Đây là bằng chứng vô cùng đắt giá (Strong Evidence) cho thấy bài toán tự động tổng hợp & cấu trúc hóa ghi chú sau buổi học là một pain point có thật và user đã chủ động tự tìm workaround (dùng AI bên ngoài).
+### 4. Hậu quả & Trích dẫn (Exact Quotes)
+* **Hậu quả:** Nếu không note sẽ bị **miss (bỏ lỡ)** các phần giải thích chi tiết ngoài slide của giảng viên.
+* **Quote 1:** *"Tốn sức nhất là em phải copy từng cái này sang cái kia xong rồi ghi chép lại những cái đã có ở trong cái slide nữa."*
+* **Quote 2:** *"Thường là em sẽ nhờ AI để tổng tắt (tóm tắt) lại luôn, chứ không kiểu ngồi đọc hết cái đống nốt mình viết."*
+* **Quote 3:** *"Nếu mà em không dùng nốt ấy em nghĩ là nó sẽ bị mít (bỏ lỡ - miss) các kiểu giải thích của giảng viên."*
+
+---
+
+# 📌 LƯỢT 2: Interview Record NV-02
+* **Mã người tham gia:** `NV-02`
+* **Đúng tiêu chí tuyển:** Có (Vừa hoàn thành bài học trực tuyến hôm thứ Sáu vừa qua, có ghi chép kiến thức)
+* **Thời gian thực hiện:** 17/08/2026
+* **Người thực hiện phỏng vấn (Interviewer):** Nguyễn Quang Vinh (MHV: `2A202601049`)
+* **Nguồn file ghi âm gốc:** `08-17-2026 12.46_1.m4a`
+* **Link bản ghi âm Google Drive:** [File ghi âm NV-02](https://drive.google.com/file/d/1CUfiysVkdtB9m4gqcLA0gosp-OzIhd9L/view?usp=sharing)
+* **Đồng ý ghi âm (Consent):** Đã xin phép và được sự đồng ý ghi âm ở đầu cuộc phỏng vấn (*"Xin phép ghi âm lại... Ok bạn"*).
+
+### 1. Bối cảnh & Tình huống
+* Người học hoàn thành buổi học trực tuyến thứ Sáu tuần trước có nhiều kiến thức cốt lõi không nằm hoàn toàn trong slide.
+* Mục tiêu: Lưu lại các keyword cốt lõi và phần giải thích bổ sung để ôn tập cho các kỳ kiểm tra/dự án.
+
+### 2. Hành vi thực tế
+* **Sử dụng Notepad:** Dùng Notepad (file editor đơn giản) để gõ nhanh các ý chính/keyword không có sẵn trong slide.
+* **Không định dạng phức tạp:** Chỉ ghi dưới dạng danh sách keyword ngắn gọn.
+* **Workaround phối hợp Slide + Keyword + AI:** Khi ôn tập, người học **tải file slide bài học lên AI**, sau đó **dán các keyword đã gõ trong Notepad vào cho AI đọc và tóm tắt tổng hợp lại** nội dung đầy đủ.
+
+### 3. Khó khăn & Workaround
+* **Bất tiện khi dùng Notepad:** Notepad không hỗ trợ highlight, không có định dạng (formatting) làm ghi chú khó nhìn.
+* **Slide không đủ thông tin:** Slide bài giảng thường thiếu chi tiết, nhưng gõ hết thì tốn công, nên user chọn giải pháp gõ keyword ngắn rồi cho AI "đọc slide + ghép keyword".
+
+### 4. Hậu quả & Trích dẫn (Exact Quotes)
+* **Quote 1 (Về công cụ ghi chép):** 
+  > *"Ờ, mình dùng Notepad thôi. Mình ghi ra file editor để lưu lại những cái ý chính."*
+* **Quote 2 (Về bất tiện không có format):** 
+  > *"Đôi khi highlight nó khó thôi... khi mình nốt ra những cái dòng ghi chú trực tiếp nó khó ấy, là nó không có format."*
+* **Quote 3 (Workaround phối hợp Slide + Keyword + AI tóm tắt):** 
+  > *"Ừ, mình thường nốt ra những cái keyword chính, xong rồi lấy slide cho con AI nó đọc, rồi pass (gửi) những cái keyword vào cho AI đọc và tóm tắt lại cho mình."*
+* **Quote 4 (Lý do phải phối hợp với slide):** 
+  > *"Thường thì slide sẽ không đầy đủ nên mình sẽ nốt lại những keyword cần phải tìm hiểu rõ ràng hơn, rồi cho AI đọc và đưa keyword đó vào."*
+
+---
+
+# 💡 TỔNG HỢP PHÁT HIỆN TỪ CẢ 2 LƯỢT PHỎNG VẤN (CROSS-INTERVIEW SYNTHESIS)
+
+1. **Sự tương đồng kinh ngạc về Workaround (Strong Evidence for Case B):**
+   * Cả 2 học viên (`NV-01` và `NV-02`) được phỏng vấn độc lập bởi 2 thành viên nhóm **đều tự phát sinh cùng một workaround**: **Đưa ghi chú/keyword + nội dung bài học/slide vào AI bên ngoài để AI tự động tóm tắt và tổng hợp lại!**
+2. **Xác minh Pain Point:**
+   * Việc phải vừa học vừa chép/copy slide thủ công làm đứt gãy luồng học và tốn quá nhiều sức (`NV-01`).
+   * Việc ghi chú trên các công cụ đơn giản (Notepad/Note tạm) bị thiếu tính năng định dạng/highlight (`NV-02`).
+3. **Kết luận Kiểm chứng Giả thuyết:**
+   * Giả thuyết của **Case B — AI Notes** (Tự động kết hợp vết ghi chú/highlight/keyword của học viên với nội dung bài học để tạo bản ghi chú có cấu trúc) hoàn toàn trùng khớp 100% với nhu cầu thực tế và workaround mà học viên đang phải tự xoay sở thực hiện bên ngoài.
